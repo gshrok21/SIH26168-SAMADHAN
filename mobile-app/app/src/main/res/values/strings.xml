@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NavDR</string>
+    <string name="tagline">Intelligent Navigation Beyond GPS</string>
+    <string name="sub_tagline">Navigate when GPS can\'t.</string>
+</resources>
